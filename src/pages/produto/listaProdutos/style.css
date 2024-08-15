@@ -1,0 +1,30 @@
+.cardPersonalizado{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+.list-item{
+    width: 20%;
+    border-radius: 5px;
+}
+.tituloCardProdutos{
+    font-size: 1em;
+    text-wrap: wrap;
+}
+.containderPrecoEstoque{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.textValor{
+    font-weight: 700;
+}
+.textQuantidade{
+    text-align: right;
+    font-size: 0.9em;
+}
+.btnComprar{
+    display: flex;
+    justify-content: center;
+}

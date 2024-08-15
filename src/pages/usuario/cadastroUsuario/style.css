@@ -1,0 +1,23 @@
+.containerFormCadastroUser{
+    display: flex;
+    align-items: start;
+    text-align: left;
+    width: 100%;
+    flex-direction: column;
+}
+.formCadastroUsuario{
+    width: 100%;
+}
+.containerRadioBtnSexoFormUsuario{
+    text-align: left;
+}
+.btnSalvarUsuario{
+    display: flex;
+    justify-content: center;
+}
+.btnSalvar{
+    width: 30%;
+}
+.linha{
+    width: 100%;
+}

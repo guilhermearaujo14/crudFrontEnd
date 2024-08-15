@@ -1,0 +1,39 @@
+[
+    {
+      "nome": "João Silva",
+      "email": "joao.silva@example.com",
+      "dataNascimento": "1990-05-15",
+      "isSexoMasculino": true
+    },
+    {
+      "nome": "Maria Oliveira",
+      "email": "maria.oliveira@example.com",
+      "dataNascimento": "1985-10-20",
+      "isSexoMasculino": false
+    },
+    {
+      "nome": "Carlos Santos",
+      "email": "carlos.santos@example.com",
+      "dataNascimento": "1978-08-02",
+      "isSexoMasculino": true
+    },
+    {
+      "nome": "Ana Paula",
+      "email": "ana.paula@example.com",
+      "dataNascimento": "1992-12-12",
+      "isSexoMasculino": false
+    },
+    {
+      "nome": "Pedro Souza",
+      "email": "pedro.souza@example.com",
+      "dataNascimento": "2000-03-25",
+      "isSexoMasculino": true
+    },    
+    {
+      "nome": "Guilherme Tadeu Araújo",
+      "email": "guilherme.araujo@example.com",
+      "dataNascimento": "1989-09-14",
+      "isSexoMasculino": true
+    }
+  ]
+  

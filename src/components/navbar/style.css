@@ -1,0 +1,15 @@
+.iconeNavbar{
+    color: #fff;
+}
+.listaPersonalizada{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    width: 90%;
+}
+.itemPersonalizado{
+    color: #fff;
+}
+.itemPersonalizado a{
+    cursor: pointer;
+}

@@ -1,0 +1,73 @@
+[
+    {
+      "codigo": "P001",
+      "nome": "Mouse Óptico",
+      "url": "data:image/jpeg;base64,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",
+      "valor": 25.99,
+      "quantidade": 150
+    },
+    {
+      "codigo": "P002",
+      "nome": "Teclado Mecânico",
+      "url": "#",
+      "valor": 150.00,
+      "quantidade": 80
+    },
+    {
+      "codigo": "P003",
+      "nome": "Monitor LED 24\"",
+      "url": "#",
+      "valor": 699.90,
+      "quantidade": 35
+    },
+    {
+      "codigo": "P004",
+      "nome": "Notebook Core i5",
+      "url": "#",
+      "valor": 3500.00,
+      "quantidade": 20
+    },
+    {
+      "codigo": "P005",
+      "nome": "Impressora Multifuncional",
+      "url": "#",
+      "valor": 499.99,
+      "quantidade": 40
+    },
+    {
+      "codigo": "P006",
+      "nome": "Cadeira Gamer",
+      "url": "#",
+      "valor": 850.00,
+      "quantidade": 60
+    },
+    {
+      "codigo": "P007",
+      "nome": "Headset com Microfone",
+      "url": "#",
+      "valor": 120.00,
+      "quantidade": 110
+    },
+    {
+      "codigo": "P008",
+      "nome": "HD Externo 1TB",
+      "url": "#",
+      "valor": 300.00,
+      "quantidade": 75
+    },
+    {
+      "codigo": "P009",
+      "nome": "Pendrive 64GB",
+      "url": "#",
+      "valor": 50.00,
+      "quantidade": 200
+    },
+    {
+      "codigo": "P010",
+      "nome": "Smartphone Android",
+      "url": "#",
+      "valor": 1200.00,
+      "quantidade": 45
+    }
+  ]
+  
